@@ -257,7 +257,7 @@ function App() {
               <button className="play-again-button" onClick={startGame}>
                 🎯 Play Again
               </button>
-              <button className="menu-button" onClick={() => setGameState('menu')}>
+              <button className="menu-button" onClick={quitGame}>
                 🏠 Main Menu
               </button>
             </div>
