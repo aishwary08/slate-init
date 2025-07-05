@@ -1,6 +1,7 @@
 {
-  "name": "slate-init",
-  "version": "0.1.0",
+  "name": "color-match-challenge",
+  "version": "1.0.0",
+  "description": "An engaging and interactive color matching game built with React",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
